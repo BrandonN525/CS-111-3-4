@@ -1,0 +1,21 @@
+Brandon Nicolas
+
+PigLatin Test Cases:
+Input:		Expected Output:	Output:
+Hello		ELLOHAY			ELLOHAY
+Everyday	EVERYDAYWAY		EVERYDAYWAY
+RiDE		IDERAY			IDERAY
+InCARceration	INCARCERATIONWAY	INCARCERATIONWAY
+
+WordCount Test Cases:
+Input:					Expected Output:	Output:
+"Hello this is Brandon", 5		2			2
+"Everyday    I*&@# spend", 6		1			1
+"Today", 3				1			1
+"Comp Sci   is fun", 8			0			0
+"I rode my bike to school", 1		6			6
+
+Compress Test Cases:
+Input:					Expected Output:		Output:
+aaa   bbbcqwww^^^  JJj			3a3 3bcq3w3^2 2Jj		3a3 3bcq3w3^2 2Jj
+qwwwwwwwwweeeeerrtyyyyyqqqqwEErTTT	q9w5e2rt5y4qw2Er3T		q9w5e2rt5y4qw2Er3T
